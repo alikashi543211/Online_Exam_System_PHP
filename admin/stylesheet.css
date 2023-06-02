@@ -1,0 +1,183 @@
+#heading_a
+    {
+	color:lightblue;
+	font-size:30px;
+	text-align:left;
+	}
+	.tad
+	{
+		color:pink;
+	}
+#bgcolor
+    {
+	background-color:maroon;
+	}
+#heading_b
+    {
+	color:white;
+	background-color:darkred;
+	}
+#div1
+   {
+	background-color:darkblue;
+    color:white;
+    text-align:center;
+	border-radius:5px;
+	}
+	#bord
+	{
+		border:5px,solid,white;height:100px;width:500px;background-color:darkblue;
+	}
+#input1
+   {
+	height:30px;
+	background-color:slateblue;
+	color:white;
+	font-weight:bold;
+	font-size:15px;
+	border-radius:5px;
+	}
+	h1
+	{
+		color:white;
+	}
+#table1
+   {
+	color:white; 
+	
+	}
+.select2
+   {
+	width:120px;height:25px;
+   }
+#td1
+   {
+	width:70px;
+	text-align:left;
+	}
+#td2
+   {
+	width:70px;
+	text-align:right;
+	}
+#td3
+    {
+	color:white;
+	}
+#td4
+    {
+	text-align:right;
+	}
+ a
+    {
+	text-decoration:none;
+	}
+#head
+    {
+	font-size:20px;
+	}
+#heading_c
+    {
+	color:white;
+	text-align:center;
+	font-size:60px;
+	}
+    input
+	{
+	width:170px;height:25px;
+	}
+.select1
+    {
+	width:120px;height:25px;
+	}
+.back_a
+    {
+	background-color:darkblue;
+	color:white;
+	height:260px;
+	width:1290px;
+	padding:30px;
+	}
+#as
+    {
+	text-align:center;
+	}
+#k
+{
+	font-size:40px;
+}
+#j
+{
+	width:700px;text-align:left;
+}
+.userid
+{
+	text-align:left;
+}
+.email
+{
+	width:180px;
+}
+.pswrd
+{
+	width:60px;
+}
+.btn
+{
+	height:30px;width:60px;border-radius:5px;font-weight:bold;cursor:pointer;
+}
+.txt
+{
+	width:70px;
+}
+.txt1
+{
+	text-align:right;
+}
+.pclr
+{
+	color:white;
+}
+.asif
+{
+	background-color:maroon;color:white;
+}
+.fs
+{
+	font-size:40px;
+}
+.point
+{
+	cursor: pointer;
+}
+.back_b
+{
+	font-size:30px;color:white;
+}
+.testbutton 
+    {
+		
+    font-family: arial;
+    color: #14396a !important;
+    font-size: 14px;
+  text-shadow: 1px 1px 0px #7cacde;
+  box-shadow: 1px 1px 1px #bee2f9;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #3866a3;
+  background: #63b8ee;
+  background: linear-gradient(top,  #63b8ee,  #468ccf);
+  background: -ms-linear-gradient(top,  #63b8ee,  #468ccf);
+  background: -webkit-gradient(linear, left top, left bottom, from(#63b8ee), to(#468ccf));
+  background: -moz-linear-gradient(top,  #63b8ee,  #468ccf);
+}
+.testbutton:hover {
+  color: #14396a !important;
+  background: #468ccf;
+  background: linear-gradient(top,  #468ccf,  #63b8ee);
+  background: -ms-linear-gradient(top,  #468ccf,  #63b8ee);
+  background: -webkit-gradient(linear, left top, left bottom, from(#468ccf), to(#63b8ee));
+  background: -moz-linear-gradient(top,  #468ccf,  #63b8ee);
+}
